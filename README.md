@@ -55,7 +55,7 @@ Here are explanations of some important args,
 --device:    "the GPU number"
 ```
 
-Normally, other args can be set to default values. See ``params.py`` for more details about argus if needed.
+%Normally, other args can be set to default values. See ``params.py`` for more details about argus if needed.
 
 
 
