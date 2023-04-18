@@ -20,7 +20,7 @@ We use NELL-One and Wiki-One to test our MetaR, and these datasets were firstly 
 
 ### How to run
 
-####NELL-One
+#### NELL-One
 
 ```bash
 # NELL-One, 5-shot,
@@ -32,7 +32,7 @@ python main.py --fine_tune --lr 8e-5 --few 5 --prefix nelllr8e-5.5shot```
 python main.py --fine_tune --lr 8e-5 --few 3 --prefix nelllr8e-5.3shot```
 ```
 
-####Wiki-One
+#### Wiki-One
 
 ```bash
 # Wiki-One, 5-shot,
